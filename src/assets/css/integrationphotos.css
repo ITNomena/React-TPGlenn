@@ -1,0 +1,50 @@
+body {
+  font-family:"Poppins", "Arial", "Helvetica Neue", sans-serif;
+}
+
+img {
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+  }
+
+button {
+  font-family:"Poppins", "Arial", "Helvetica Neue", sans-serif;
+}
+/* h1{
+  font-family:"Poppins", "Arial", "Helvetica Neue", sans-serif;
+}
+button {
+  font-family:"Poppins", "Arial", "Helvetica Neue", sans-serif;
+} */
+
+h1 {
+  margin-left:10px;
+}
+  .product-card {
+    font-family:"Poppins", "Arial", "Helvetica Neue", sans-serif;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px; 
+    margin: 10px; 
+    text-align: center; 
+  }
+  
+  .product-card h2 {
+    font-size: 1.2em;
+  }
+ 
+  .product-card p {
+    font-size: 0.9em;
+    color: #888;
+  }
+  
+  .product-card button {
+    background-color: #ff5733;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
